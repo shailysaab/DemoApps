@@ -1,3 +1,3 @@
 <h1> Shailendra is trying to learn Devops in his free time</h1>
 <h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
+<h2> You are ding good anf almost done with the course.Keep It up</h2>
